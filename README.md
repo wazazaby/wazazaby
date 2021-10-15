@@ -1,4 +1,7 @@
-### Bonjour 🥖
+### Hi, I'm Teddy 👋
+I'm currently learning about :
+* Different kind of software architectures (microservices, clean and serverless)
+* React
 
 <!--
 **Wazazaby/wazazaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
