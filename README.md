@@ -1,6 +1,6 @@
 ### Hi, I'm Teddy 👋
 I'm currently learning about :
-* Different kind of software architectures (microservices, clean and serverless)
+* Different kind of software architectures
 * React
 
 <!--
