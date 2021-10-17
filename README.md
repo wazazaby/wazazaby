@@ -1,6 +1,7 @@
 ### Hi, I'm Teddy 👋
 I'm currently learning about :
 * Different kind of software architectures
+* Functionnal programming principles
 * React
 
 <!--
