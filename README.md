@@ -2,7 +2,7 @@
 I'm currently learning about :
 * Different kind of software architectures
 * Functionnal programming principles
-* React
+* Golang
 
 <!--
 **Wazazaby/wazazaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
