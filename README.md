@@ -1,9 +1,4 @@
-### Hi, I'm Teddy 👋
-I'm currently learning about :
-* Different kind of software architectures
-* Functionnal programming principles
-* Golang (🤯)
-* gRPC and protocol buffers
+### Hi 👋
 
 <!--
 **Wazazaby/wazazaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
