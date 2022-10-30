@@ -3,8 +3,6 @@
 * 🌍 Lyon, France
 * 🧑 23 years old
 * ⌨️ Keyboard junkie
-* 🔊 Techno enthusiast
-* 🍥 Anime lover
 
 <!--
 **Wazazaby/wazazaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
