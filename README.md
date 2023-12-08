@@ -1,7 +1,7 @@
 ### Hi ! I'm Teddy 👋
 * 🔧 Backend Developer at [Batch](https://batch.com)
 * 🌍 Lyon, France
-* 🧑 23 years old
+* 🧑 25 years old
 * ⌨️ Keyboard junkie
 
 <!--
