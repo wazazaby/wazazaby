@@ -1,8 +1,6 @@
 ### Hi ! I'm Teddy 👋
 * 🔧 Backend Developer at [Batch](https://batch.com)
 * 🌍 Lyon, France
-* 🧑 25 years old
-* ⌨️ Keyboard junkie
 
 <!--
 **Wazazaby/wazazaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
