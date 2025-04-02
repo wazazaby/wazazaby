@@ -1,5 +1,5 @@
 ### Hi ! I'm Teddy 👋
-* 🔧 Backend Developer at [Batch](https://batch.com)
+* 🔧 Platform Engineer at [Batch](https://batch.com)
 * 🌍 Lyon, France
 
 <!--
