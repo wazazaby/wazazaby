@@ -1,3 +1,5 @@
+![wazazaby.github.io](https://count.getloli.com/@wazazaby.github.io?theme=booru-vp)
+
 ### Hi ! I'm Teddy 👋
 * 🔧 Platform Engineer at [Batch](https://batch.com)
 * 🌍 Lyon, France
